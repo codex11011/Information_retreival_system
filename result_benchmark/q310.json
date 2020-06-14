@@ -1,0 +1,10 @@
+{
+    "queryId": "q310",
+    "query": "burden of proof",
+    "result": {
+        "doc-334": 0.36650392
+    },
+    "precision": 0.05,
+    "recall": 0.02631578947368421,
+    "fscore": 0.034482758620689655
+}

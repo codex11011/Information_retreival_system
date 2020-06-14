@@ -1,0 +1,13 @@
+{
+    "queryId": "q505",
+    "query": "seeking beach rental",
+    "result": {
+        "doc-502": 0.53996223,
+        "doc-501": 0.08847186,
+        "doc-130": 0.06932813,
+        "doc-215": 0.05416772
+    },
+    "precision": 0.9,
+    "recall": 0.5,
+    "fscore": 0.6428571428571429
+}

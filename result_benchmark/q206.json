@@ -1,0 +1,12 @@
+{
+    "queryId": "q206",
+    "query": "Irgun and Deir Yassin",
+    "result": {
+        "doc-201": 0.48572354,
+        "doc-232": 0.45217181,
+        "doc-208": 0.09303803
+    },
+    "precision": 0.15,
+    "recall": 0.075,
+    "fscore": 0.1
+}

@@ -1,0 +1,11 @@
+{
+    "queryId": "q402",
+    "query": "command loss timer",
+    "result": {
+        "doc-427": 0.57363658,
+        "doc-402": 0.54896876
+    },
+    "precision": 0.1,
+    "recall": 0.047619047619047616,
+    "fscore": 0.06451612903225806
+}

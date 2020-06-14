@@ -1,0 +1,50 @@
+q101  for sale
+q102  for sale at best or reasonable offer
+q103  for sale in good or excellent condition
+q104  car for sale
+q105  games for sale
+q106  camera for sale
+q107  software for sale
+q108  for sale at $5
+q109  for sale at $15
+q110  for sale at $200
+q201  Israel, Palestine, Gaza and Arabs
+q202  Jews and Muslims
+q203  Jewish and Arab terrorists
+q204  the Holocaust
+q205  Zionism
+q206  Irgun and Deir Yassin
+q207  mosques and synagogues
+q208  the Old City of Jerusalem
+q209  Israel an apartheid state
+q210  peace talks between Israel and the Palestinians
+q301  religion and atheism
+q302  why do people become atheists
+q303  heaven and hell
+q304  origins of the Bible
+q305  logic and ability to reason
+q306  faith and dogma
+q307  moral or immoral
+q308  who is a Christian
+q309  God and free will
+q310  burden of proof
+q401  space
+q402  command loss timer
+q403  Hubble Space Telescope
+q404  Jet Propulsion Laboratory
+q405  satellite around Pluto
+q406  breathable liquid
+q407  historic space flights
+q408  interstellar radiation field and density
+q409  long distance space projects
+q410  single launch space station
+q501  wanted
+q502  calculator wanted
+q503  monitor wanted
+q504  looking for machinist tools
+q505  seeking beach rental
+q506  looking for old album
+q507  looking for books
+q508  Transformers toys wanted
+q509  looking for tandem bicycle
+q510  cassette or CD wanted

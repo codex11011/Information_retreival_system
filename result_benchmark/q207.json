@@ -1,0 +1,12 @@
+{
+    "queryId": "q207",
+    "query": "mosques and synagogues",
+    "result": {
+        "doc-238": 0.4653368,
+        "doc-235": 0.36106912,
+        "doc-234": 0.22137357
+    },
+    "precision": 0.15,
+    "recall": 0.075,
+    "fscore": 0.1
+}

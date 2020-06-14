@@ -1,0 +1,11 @@
+{
+    "queryId": "q205",
+    "query": "Zionism",
+    "result": {
+        "doc-210": 0.16280898,
+        "doc-228": 0.124023
+    },
+    "precision": 0.1,
+    "recall": 0.05,
+    "fscore": 0.06666666666666667
+}
